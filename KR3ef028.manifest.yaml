@@ -1,0 +1,321 @@
+canonical_identifier: bkk:krp/KR3ef028/v1
+canonical_location: https://kanripo.org/bkk/KR3ef028/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 傷寒論淺註補正
+  identifiers:
+    krp: KR3ef028
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef028.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3ef028_001.yaml, hash: 'sha256:c705dde33100f28b06465e5e62372828d75615a9367a9c9aeb7f93d6f70a7231'}
+  - {seq: 2, filename: KR3ef028_002.yaml, hash: 'sha256:453940b646eeef9bac4d274eb77f7944fc4357cc4bf16e2305dab16d6bcecfca'}
+  - {seq: 3, filename: KR3ef028_003.yaml, hash: 'sha256:97cfaaa1d77250946608907302321dd159ced37aba7ef80fa37a4221e90bbeab'}
+  - {seq: 4, filename: KR3ef028_004.yaml, hash: 'sha256:7776dedd3599f3b7fa073bed5528948be8309e3c3eb8c5ecda2a7c5df512dc07'}
+  - {seq: 5, filename: KR3ef028_005.yaml, hash: 'sha256:8ff7b96716b1d2591f59a21b9accf3b6ac482f486edff6b0f614dbe8afc3defb'}
+  - {seq: 6, filename: KR3ef028_006.yaml, hash: 'sha256:43436802bdd785bf93100b95b3a5a4a1171605d1c102e5fbda60c2e74c5786a5'}
+  - {seq: 7, filename: KR3ef028_007.yaml, hash: 'sha256:e64d989fa8957598be8325bf1eb6fca75a857579dc6ca9702d4a2d1b0f272ccf'}
+  - {seq: 8, filename: KR3ef028_008.yaml, hash: 'sha256:bd6f65745510557a62ca52dc76fe3fe3e63764eb765cde09ae7ac1054b9c15f6'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ef028_001.markers.yaml, hash: 'sha256:098d458fd7bd1ec0c95b69d01a74dc0518fe7bab5b0bd8db9618db0186587e71'}
+  - {seq: 2, role: markers, filename: assets/KR3ef028_002.markers.yaml, hash: 'sha256:3be021b9928095fa88aec621c26ad73d43a299359d7a6fd928ab4c5732e64c16'}
+  - {seq: 3, role: markers, filename: assets/KR3ef028_003.markers.yaml, hash: 'sha256:890b001de2d92bca9e7201b9a947835b9123c6f7cbccee4f603b4a5057900848'}
+  - {seq: 4, role: markers, filename: assets/KR3ef028_004.markers.yaml, hash: 'sha256:0eaf3ad34b58068f5d6c07992ca28a1a95d0f851bafaf86c4d01dae734bd37b9'}
+  - {seq: 5, role: markers, filename: assets/KR3ef028_005.markers.yaml, hash: 'sha256:67f8225bd51933fdcb2d667d04a0adeebb4b28c9198bfc61952dae491c9f0f3c'}
+  - {seq: 6, role: markers, filename: assets/KR3ef028_006.markers.yaml, hash: 'sha256:fd5ffb8041f617e85aea7790721ba2d8b29b84ababefaf7f1e609705e2cd5b42'}
+  - {seq: 7, role: markers, filename: assets/KR3ef028_007.markers.yaml, hash: 'sha256:dd57ab931a0f0da371859f40e25d7932a83a049aca31450590699e8541a7430a'}
+  - {seq: 8, role: markers, filename: assets/KR3ef028_008.markers.yaml, hash: 'sha256:3d0cefa84483d947001335529d251774364642b3c4929332893bace3f9d09c0e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ef028_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 11316
+  label: 序等
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ef028_jc_000-d2d2
+    span:
+    - front
+    - 2
+    - 622
+  label: 傷寒論淺註補正序
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef028_jc_000-d2d3
+    span:
+    - front
+    - 622
+    - 1017
+  label: 傷寒淺註序
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef028_jc_000-d2d4
+    span:
+    - front
+    - 1017
+    - 1587
+  label: 長沙方註小引
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef028_jc_000-d2d5
+    span:
+    - front
+    - 1587
+    - 3822
+  label: 仲景原序
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef028_jc_000-d2d6
+    span:
+    - front
+    - 3822
+    - 5160
+  label: 淺註凡例
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef028_jc_000-d2d7
+    span:
+    - front
+    - 5160
+    - 6174
+  label: 補正凡例
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef028_jc_000-d2d8
+    span:
+    - front
+    - 6174
+    - 11316
+  label: 讀法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef028_jc_NaN-d3.h1s1
+    span:
+    - body
+    - 0
+    - 22837
+  label: 傷寒論淺註補正卷一上
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ef028_jc_NaN-d3d2
+    span:
+    - body
+    - 10
+    - 22837
+  label: 辨太陽病脈證篇
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef028_jc_NaN-d4.h1s1
+    span:
+    - body
+    - 22837
+    - 56566
+  label: 傷寒論淺註補正卷一中
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ef028_jc_NaN-d4d2
+    span:
+    - body
+    - 22847
+    - 56566
+  label: 辨太陽病脈證篇
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef028_jc_NaN-d5.h1s1
+    span:
+    - body
+    - 56566
+    - 85009
+  label: 傷寒論淺註補正卷一下
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ef028_jc_NaN-d5d2
+    span:
+    - body
+    - 56576
+    - 85009
+  label: 辨太陽病脈證篇
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef028_jc_002-d6.h1s1
+    span:
+    - body
+    - 0
+    - 26869
+  label: 傷寒論淺註補正卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ef028_jc_002-d6d2
+    span:
+    - body
+    - 9
+    - 26869
+  label: 辨陽明病脈證
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef028_jc_003-d7.h1s1
+    span:
+    - body
+    - 0
+    - 6920
+  label: 傷寒論淺註補正卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ef028_jc_003-d7d2
+    span:
+    - body
+    - 9
+    - 6920
+  label: 辨少陽病脈證篇
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef028_jc_004-d8.h1s1
+    span:
+    - body
+    - 0
+    - 5735
+  label: 傷寒論淺註補正卷四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ef028_jc_004-d8d2
+    span:
+    - body
+    - 9
+    - 5735
+  label: 辨太陰病脈證篇
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ef028_jc_005-d9.h1s1
+    span:
+    - body
+    - 0
+    - 19019
+  label: 傷寒論淺註補正卷五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ef028_jc_005-d9d2
+    span:
+    - body
+    - 9
+    - 19019
+  label: 辨少陰病脈證篇
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ef028_jc_006-d10.h1s1
+    span:
+    - body
+    - 0
+    - 18812
+  label: 傷寒論淺註補正卷六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3ef028_jc_006-d10d2
+    span:
+    - body
+    - 9
+    - 18812
+  label: 辨厥陰病脈證篇
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ef028_jc_007-d11.h1s1
+    span:
+    - body
+    - 0
+    - 19029
+  label: 傷寒論淺註補正卷七
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3ef028_jc_007-d11d2
+    span:
+    - body
+    - 9
+    - 3787
+  label: 辨霍亂病脈證並治法
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ef028_jc_007-d11d3
+    span:
+    - body
+    - 3787
+    - 5900
+  label: 辨陰陽易差後勞復脈證
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ef028_jc_007-d11d4
+    span:
+    - body
+    - 5900
+    - 19029
+  label: 辨痓濕暍脈證
+  type: section
+  level: 2
+hash: sha256:4b6184c1d28a8008f637269b2a72ac43554545bffca46b76e6bfcc9b96fd1fe0
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
