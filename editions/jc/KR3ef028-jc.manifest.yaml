@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 1, filename: KR3ef028_001-jc.yaml, hash: 'sha256:68582ca996a900ec9da8ff883e43c63c4441ee725d745b77c1e8d62186f87bf3'}
+  - {seq: 1, filename: KR3ef028_001-jc.yaml, hash: 'sha256:4ba14f9f3818babeb3c54f142f43c4c5c5ef544acc0eddcca2000fc578c36007'}
   - {seq: 2, filename: KR3ef028_002-jc.yaml, hash: 'sha256:3dd6287dc1f85ed4455b90bba9da3cbae9f715bbf5b648be73442c1cfcd6f2e9'}
   - {seq: 3, filename: KR3ef028_003-jc.yaml, hash: 'sha256:d0a499e22576f7754fc18d08d684f0e31118cb329b9ae7103799048d573db80f'}
   - {seq: 4, filename: KR3ef028_004-jc.yaml, hash: 'sha256:f2f5f9ebebbf49bdd65e96846bbd3599ab9e1ee19bbc8212389b52b9a323dddc'}
@@ -26,7 +26,7 @@ assets:
   - {seq: 7, filename: KR3ef028_007-jc.yaml, hash: 'sha256:d3845b3136fd8d92000c8612f3e5a8a016baec39ec75db4b7c4c480d86a57ec2'}
   - {seq: 8, filename: KR3ef028_008-jc.yaml, hash: 'sha256:1dd7f93573afd05d855c49224569323c7ceb511306ae8f72b66485a95e88b85b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ef028_001-jc.markers.yaml, hash: 'sha256:a31fff8f475da1b7c01038766623b9c3a4a335cb8c421bcd75775a13fd6df3f9'}
+  - {seq: 1, role: markers, filename: assets/KR3ef028_001-jc.markers.yaml, hash: 'sha256:dafd3eb805f68fe62050886bd29606f22f204baf0555b0a5856e1d06826a5661'}
   - {seq: 2, role: markers, filename: assets/KR3ef028_002-jc.markers.yaml, hash: 'sha256:89f7113f5dc036a67570363fe729426f1bd1b02be87af7d5841bd049ed94754d'}
   - {seq: 3, role: markers, filename: assets/KR3ef028_003-jc.markers.yaml, hash: 'sha256:e23375e21e8d0be151b58fc3721314a5114c3d92235c27dfba39493c9a9af939'}
   - {seq: 4, role: markers, filename: assets/KR3ef028_004-jc.markers.yaml, hash: 'sha256:fc390f1015616253ddf011ffe2da1094f54783011790b37829a0c8fd9f7290cb'}
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3ef028_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 11316
   label: 序等
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3ef028_jc_000-d2d2
     span:
-    - front
+    - body
     - 2
     - 622
   label: 傷寒論淺註補正序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3ef028_jc_000-d2d3
     span:
-    - front
+    - body
     - 622
     - 1017
   label: 傷寒淺註序
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3ef028_jc_000-d2d4
     span:
-    - front
+    - body
     - 1017
     - 1587
   label: 長沙方註小引
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3ef028_jc_000-d2d5
     span:
-    - front
+    - body
     - 1587
     - 3822
   label: 仲景原序
@@ -89,7 +89,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3ef028_jc_000-d2d6
     span:
-    - front
+    - body
     - 3822
     - 5160
   label: 淺註凡例
@@ -99,7 +99,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3ef028_jc_000-d2d7
     span:
-    - front
+    - body
     - 5160
     - 6174
   label: 補正凡例
@@ -109,7 +109,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3ef028_jc_000-d2d8
     span:
-    - front
+    - body
     - 6174
     - 11316
   label: 讀法
@@ -315,4 +315,4 @@ table_of_contents:
   label: 辨痓濕暍脈證
   type: section
   level: 2
-hash: sha256:aca80218d25e2b6041575063c81bcb71bfab157018d7f2cc4be07d3e7e5689e7
+hash: sha256:55c3ace054408f03bd97c3d289c94ba75a3abcd9c4f5cbefab1689564cf5df70
